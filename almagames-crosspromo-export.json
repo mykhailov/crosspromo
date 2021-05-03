@@ -1,0 +1,520 @@
+{
+  "_almagames" : {
+    "android" : {
+      "games" : [ null, "sweet_home" ]
+    },
+    "ios" : {
+      "games" : [ null, "sweet_home" ]
+    }
+  },
+  "alarmy" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home", "fruit_escape", "blobs", "monsterland_1", "snoring", "monsterland_2", "cat", "traffic_jam", "snoring", "stupitest", "sweet_home", "traffic_jam", "dragon_princess", "snoring" ]
+      },
+      "frame_color" : "0884FFFF",
+      "id" : "com.almagames.alarmy1",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/alarmy/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/alarmy/bootup_3.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/alarmy/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "blobs", "sweet_home", "monsterland_1", "snoring", "fruit_escape", "monsterland_2", "sweet_home", "snoring", "cat", "monsterland_2", "sweet_home", "traffic_jam", "dragon_princess", "snoring" ]
+      },
+      "frame_color" : "0884FFFF",
+      "id" : 1099558946,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/alarmy/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/alarmy/bootup_3.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/alarmy/portrait_1.jpg"
+    }
+  },
+  "blast_down" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "snoring" ]
+      },
+      "frame_color" : "FF9D00",
+      "id" : "com.almagames.dummy",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/blast_down/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/blast_down/ads_lanscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/blast_down/ads_portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "snoring" ]
+      },
+      "frame_color" : "FF9D00",
+      "id" : 1478251633,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/blast_down/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/blast_down/ads_lanscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/blast_down/ads_portrait_1.jpg"
+    }
+  },
+  "blobs" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "cat", "snoring", "sweet_home", "alarmy", "cat", "snoring", "monsterland_2", "sweet_home", "fruit_escape", "snoring", "sweet_home", "traffic_jam", "dragon_princess", "monsterland_1" ]
+      },
+      "frame_color" : "0000000",
+      "id" : "com.almagames.blobs",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fluffy_story/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fluffy_story/ads_landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fluffy_story/ads_portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring", "fruit_escape", "sweet_home", "fruit_escape", "alarmy", "cat", "monsterland_1", "snoring", "sweet_home", "monsterland_1", "snoring", "traffic_jam", "dragon_princess", "monsterland_2" ]
+      },
+      "frame_color" : "608d17",
+      "id" : 1457818084,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fluffy_story/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fluffy_story/ads_landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fluffy_story/ads_portrait_1.jpg"
+    }
+  },
+  "cat" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "monsterland_1", "snoring", "sweet_home", "alarmy", "sweet_home", "blobs", "snoring", "monsterland_2", "alarmy", "sweet_home", "fruit_escape", "traffic_jam", "dragon_princess", "monsterland_1" ]
+      },
+      "frame_color" : "FF7013FF",
+      "id" : "com.almagames.cat2",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cat/icon_2.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cat/landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cat/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "monsterland_1", "snoring", "sweet_home", "alarmy", "sweet_home", "blobs", "snoring", "monsterland_2", "fruit_escape", "stupitest", "alarmy", "traffic_jam", "dragon_princess", "monsterland_1" ]
+      },
+      "frame_color" : "FF7013FF",
+      "id" : 1330564281,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cat/icon_2.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cat/landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cat/portrait_1.jpg"
+    }
+  },
+  "color_maze" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "mr_cannon", "blast_down" ]
+      },
+      "frame_color" : "EC00FF",
+      "id" : "com.almagames.colormaze",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/color_maze/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/color_maze/ads_lanscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/color_maze/ads_portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "snoring", "alarmy" ]
+      },
+      "frame_color" : "EC00FF",
+      "id" : 12121212,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/color_maze/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/color_maze/ads_lanscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/color_maze/ads_portrait_1.jpg"
+    }
+  },
+  "dragon_princess" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "mr_cannon", "stupitest", "sweet_home", "fruit_escape", "sweet_home", "snoring", "monsterland_2", "blobs", "trafic_jam", "cat", "blast_down", "alarmy", "color_maze", "monsterland_1" ]
+      },
+      "frame_color" : "FF9D00",
+      "id" : "com.almagames.dragonprincess",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/magic_adventure/ads_icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/magic_adventure/ads_landscape_1_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/magic_adventure/ads_portrait_1_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "dragon_princess" ]
+      },
+      "frame_color" : "FF9D00",
+      "id" : 1529458866,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/magic_adventure/ads_icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/magic_adventure/ads_landscape_1_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/magic_adventure/ads_portrait_1_1.jpg"
+    }
+  },
+  "fruit_escape" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "cat", "snoring", "sweet_home", "alarmy", "sweet_home", "blobs", "cat", "monsterland_2", "snoring", "sweet_home", "snoring", "traffic_jam", "dragon_princess", "monsterland_1" ]
+      },
+      "frame_color" : "ffb521",
+      "id" : "com.almagames.drawline",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fruit_escape/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fruit_escape/landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fruit_escape/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home", "snoring", "monsterland_1", "alarmy", "sweet_home", "blobs", "cat", "monsterland_2", "alarmy", "snoring", "cat", "traffic_jam", "dragon_princess", "blobs" ]
+      },
+      "frame_color" : "ffb521",
+      "id" : 1434036875,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fruit_escape/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fruit_escape/landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fruit_escape/portrait_1.jpg"
+    }
+  },
+  "home_bakery" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "id" : "com.almagames.perfectpictures",
+      "image_icon" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/home_bakery/icon.jpg",
+      "image_landscape" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/home_bakery/ads_lanscape_1.jpg",
+      "image_portrait" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/home_bakery/ads_portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring" ]
+      },
+      "id" : 1489610069,
+      "image_icon" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/home_bakery/icon.jpg",
+      "image_landscape" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/home_bakery/ads_lanscape_1.jpg",
+      "image_portrait" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/home_bakery/ads_portrait_1.jpg"
+    }
+  },
+  "idle_horde" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "frame_color" : "FF9F00",
+      "id" : "com.almagames.idlehorde",
+      "image_icon" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/idle_horde/icon.jpg",
+      "image_landscape" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/idle_horde/lanscape_1.jpg",
+      "image_portrait" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/idle_horde/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring" ]
+      },
+      "frame_color" : "FF9F00",
+      "id" : 1475774831,
+      "image_icon" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/idle_horde/icon.jpg",
+      "image_landscape" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/idle_horde/lanscape_1.jpg",
+      "image_portrait" : "https://storage.googleapis.com/almagames-crosspromo.appspot.com/idle_horde/portrait_1.jpg"
+    }
+  },
+  "monsterland_1" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "mr_cannon", "snoring", "cat", "sweet_home", "fruit_escape", "blobs", "cat", "monsterland_2", "snoring", "blobs", "alarmy", "traffic_jam", "dragon_princess", "alarmy" ]
+      },
+      "frame_color" : "11B619FF",
+      "id" : "com.almagames.monsterland1",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_1/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_1/bootup_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_1/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home", "snoring", "sweet_home", "alarmy", "fruit_escape", "blobs", "cat", "monsterland_2", "snoring", "fruit_escape", "cat", "traffic_jam", "dragon_princess", "alarmy" ]
+      },
+      "frame_color" : "11B619FF",
+      "id" : 1107938990,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_1/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_1/bootup_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_1/portrait_1.jpg"
+    }
+  },
+  "monsterland_2" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "sweet_home", "snoring", "monsterland_1", "alarmy", "fruit_escape", "blobs", "cat", "sweet_home", "snoring", "cat", "alarmy", "dragon_princess", "monsterland_1", "blobs" ]
+      },
+      "frame_color" : "354FCCFF",
+      "id" : "com.almagames.monsterlandfairytails",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_2/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_2/bootup_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_2/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home", "snoring", "cat", "alarmy", "fruit_escape", "blobs", "cat", "monsterland_1", "snoring", "cat", "blobs", "traffic_jam", "dragon_princess", "alarmy" ]
+      },
+      "frame_color" : "354FCCFF",
+      "id" : 1183253265,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_2/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_2/bootup_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/monsterland_2/portrait_1.jpg"
+    }
+  },
+  "mr_cannon" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "snoring" ]
+      },
+      "frame_color" : "00A7FF",
+      "id" : "com.almagames.cannon",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/mr_cannon/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/mr_cannon/ads_lanscape_2.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/mr_cannon/ads_portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "snoring" ]
+      },
+      "frame_color" : "00A7FF",
+      "id" : 1457850042,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/mr_cannon/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/mr_cannon/ads_lanscape_2.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/mr_cannon/ads_portrait_1.jpg"
+    }
+  },
+  "snoring" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "monsterland_2", "sweet_home", "cat", "blobs", "alarmy", "monsterland_1", "fruit_escape", "cat", "blobs", "alarmy", "sweet_home", "traffic_jam", "dragon_princess", "monsterland_1" ]
+      },
+      "frame_color" : "099C03FF",
+      "id" : "com.almagames.snoring",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/snoring/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/snoring/landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/snoring/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home", "monsterland_2", "alarmy", "blobs", "cat", "alarmy", "fruit_escape", "monsterland_1", "sweet_home", "blobs", "monsterland_2", "traffic_jam", "dragon_princess", "cat" ]
+      },
+      "frame_color" : "099C03FF",
+      "id" : 1212210972,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/snoring/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/snoring/landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/snoring/portrait_1.jpg"
+    }
+  },
+  "stupitest" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "wordgame" ]
+      },
+      "frame_color" : "FF4040FF",
+      "id" : "com.almagames.stupitest",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/morron_test/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/morron_test/landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/morron_test/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "wordgame" ]
+      },
+      "frame_color" : "FF4040FF",
+      "id" : 1245703734,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/morron_test/icon_1.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/morron_test/landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/morron_test/portrait_1.jpg"
+    }
+  },
+  "sweet_home" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring", "alarmy", "monsterland_1", "cat", "traffic_jam", "monsterland_2", "dragon_princess" ]
+      },
+      "frame_color" : "FF4040FF",
+      "id" : "com.almagames.sweethome",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cover_balls/icon_2.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cover_balls/ads_landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cover_balls/ads_portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring", "alarmy", "monsterland_1", "cat", "traffic_jam", "monsterland_2", "dragon_princess" ]
+      },
+      "frame_color" : "FF4040FF",
+      "id" : 1559175564,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cover_balls/icon_2.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cover_balls/ads_landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/cover_balls/ads_portrait_1.jpg"
+    }
+  },
+  "traffic_jam" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "mr_cannon", "color_maze", "blast_down", "sweet_home", "blobs", "cat", "alarmy", "fruit_escape", "monsterland_1", "snoring", "stupitest", "monsterland_2" ]
+      },
+      "frame_color" : "2BC82C",
+      "id" : "com.almagames.road",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/traffic_jam/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/traffic_jam/lanscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/traffic_jam/portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "sweet_home" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "snoring" ]
+      },
+      "frame_color" : "2BC82C",
+      "id" : 1471677274,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/traffic_jam/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/traffic_jam/lanscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/traffic_jam/portrait_1.jpg"
+    }
+  }
+}
