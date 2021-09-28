@@ -1,21 +1,21 @@
 {
   "_almagames" : {
     "android" : {
-      "games" : [ null, "sweet_home" ]
+      "games" : [ null, "snoring", "cat", "alarmy", "snoring", "blobs", "monsterland_1", "fruit_escape", "sweet_home", "monsterland_2" ]
     },
     "ios" : {
-      "games" : [ null, "sweet_home" ]
+      "games" : [ null, "cat", "snoring", "alarmy", "dragon_princess", "blobs", "monsterland_1", "fruit_escape", "sweet_home", "monsterland_2" ]
     }
   },
   "alarmy" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home", "fruit_escape", "blobs", "monsterland_1", "snoring", "monsterland_2", "cat", "traffic_jam", "snoring", "stupitest", "sweet_home", "traffic_jam", "dragon_princess", "snoring" ]
+        "games" : [ null, "cat", "fruit_escape", "blobs", "monsterland_1", "snoring", "monsterland_2", "cat", "traffic_jam", "snoring", "stupitest", "sweet_home", "traffic_jam", "dragon_princess", "snoring" ]
       },
       "frame_color" : "0884FFFF",
       "id" : "com.almagames.alarmy1",
@@ -25,12 +25,12 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "blobs", "sweet_home", "monsterland_1", "snoring", "fruit_escape", "monsterland_2", "sweet_home", "snoring", "cat", "monsterland_2", "sweet_home", "traffic_jam", "dragon_princess", "snoring" ]
+        "games" : [ null, "blobs", "cat", "monsterland_1", "snoring", "fruit_escape", "monsterland_2", "sweet_home", "snoring", "cat", "monsterland_2", "sweet_home", "traffic_jam", "dragon_princess", "snoring" ]
       },
       "frame_color" : "0884FFFF",
       "id" : 1099558946,
@@ -43,7 +43,7 @@
     "android" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 0,
@@ -74,12 +74,12 @@
   "blobs" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "cat", "snoring", "sweet_home", "alarmy", "cat", "snoring", "monsterland_2", "sweet_home", "fruit_escape", "snoring", "sweet_home", "traffic_jam", "dragon_princess", "monsterland_1" ]
+        "games" : [ null, "cat", "snoring", "monsterland_1", "alarmy", "cat", "snoring", "monsterland_2", "sweet_home", "fruit_escape", "snoring", "sweet_home", "traffic_jam", "dragon_princess", "monsterland_1" ]
       },
       "frame_color" : "0000000",
       "id" : "com.almagames.blobs",
@@ -89,7 +89,7 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
@@ -106,12 +106,12 @@
   "cat" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "monsterland_1", "snoring", "sweet_home", "alarmy", "sweet_home", "blobs", "snoring", "monsterland_2", "alarmy", "sweet_home", "fruit_escape", "traffic_jam", "dragon_princess", "monsterland_1" ]
+        "games" : [ null, "monsterland_1", "snoring", "monsterland_2", "alarmy", "sweet_home", "blobs", "snoring", "monsterland_2", "alarmy", "sweet_home", "fruit_escape", "traffic_jam", "dragon_princess", "monsterland_1" ]
       },
       "frame_color" : "FF7013FF",
       "id" : "com.almagames.cat2",
@@ -121,12 +121,12 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "monsterland_1", "snoring", "sweet_home", "alarmy", "sweet_home", "blobs", "snoring", "monsterland_2", "fruit_escape", "stupitest", "alarmy", "traffic_jam", "dragon_princess", "monsterland_1" ]
+        "games" : [ null, "monsterland_1", "snoring", "sweet_home", "alarmy", "dragon_princess" ]
       },
       "frame_color" : "FF7013FF",
       "id" : 1330564281,
@@ -139,7 +139,7 @@
     "android" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "games" : [ null, "snoring" ]
       },
       "cross_promo" : {
         "enable" : 0,
@@ -170,12 +170,12 @@
   "dragon_princess" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
-        "enable" : 0,
-        "games" : [ null, "mr_cannon", "stupitest", "sweet_home", "fruit_escape", "sweet_home", "snoring", "monsterland_2", "blobs", "trafic_jam", "cat", "blast_down", "alarmy", "color_maze", "monsterland_1" ]
+        "enable" : 1,
+        "games" : [ null, "snoring", "cat", "monsterland_1", "fruit_escape", "monsterland_2", "alarmy", "blobs", "traffic_jam" ]
       },
       "frame_color" : "FF9D00",
       "id" : "com.almagames.dragonprincess",
@@ -185,12 +185,12 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
-        "enable" : 0,
-        "games" : [ null, "dragon_princess" ]
+        "enable" : 1,
+        "games" : [ null, "snoring", "cat", "monsterland_2", "sweet_home" ]
       },
       "frame_color" : "FF9D00",
       "id" : 1529458866,
@@ -202,7 +202,7 @@
   "fruit_escape" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
@@ -217,12 +217,12 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "sweet_home" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home", "snoring", "monsterland_1", "alarmy", "sweet_home", "blobs", "cat", "monsterland_2", "alarmy", "snoring", "cat", "traffic_jam", "dragon_princess", "blobs" ]
+        "games" : [ null, "hexoboy", "snoring", "monsterland_1", "alarmy", "sweet_home", "blobs", "cat", "monsterland_2", "hexoboy", "snoring", "cat", "traffic_jam", "dragon_princess", "blobs" ]
       },
       "frame_color" : "ffb521",
       "id" : 1434036875,
@@ -231,11 +231,43 @@
       "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/fruit_escape/portrait_1.jpg"
     }
   },
+  "hexoboy" : {
+    "android" : {
+      "bootup_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring" ]
+      },
+      "cross_promo" : {
+        "enable" : 1,
+        "games" : [ null, "snoring" ]
+      },
+      "frame_color" : "000000",
+      "id" : "com.almagames.hexoboy",
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/hexoboy/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/hexoboy/ads_landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/hexoboy/ads_portrait_1.jpg"
+    },
+    "ios" : {
+      "bootup_promo" : {
+        "enable" : 0,
+        "games" : [ null, "snoring" ]
+      },
+      "cross_promo" : {
+        "enable" : 0,
+        "games" : [ null, "snoring" ]
+      },
+      "frame_color" : "000000",
+      "id" : 12312312341,
+      "image_icon" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/hexoboy/icon.jpg",
+      "image_landscape" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/hexoboy/ads_landscape_1.jpg",
+      "image_portrait" : "https://raw.githubusercontent.com/mykhailov/crosspromo/main/hexoboy/ads_portrait_1.jpg"
+    }
+  },
   "home_bakery" : {
     "android" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 1,
@@ -265,7 +297,7 @@
     "android" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "games" : [ null, "snoring" ]
       },
       "cross_promo" : {
         "enable" : 1,
@@ -280,7 +312,7 @@
     "ios" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 1,
@@ -296,12 +328,12 @@
   "monsterland_1" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "enable" : 2,
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
-        "enable" : 0,
-        "games" : [ null, "mr_cannon", "snoring", "cat", "sweet_home", "fruit_escape", "blobs", "cat", "monsterland_2", "snoring", "blobs", "alarmy", "traffic_jam", "dragon_princess", "alarmy" ]
+        "enable" : 1,
+        "games" : [ null, "monsterland_2", "snoring", "cat", "sweet_home", "fruit_escape", "blobs", "cat", "monsterland_2", "snoring", "blobs", "alarmy", "traffic_jam", "dragon_princess", "alarmy" ]
       },
       "frame_color" : "11B619FF",
       "id" : "com.almagames.monsterland1",
@@ -311,8 +343,8 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "enable" : 2,
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 1,
@@ -328,12 +360,12 @@
   "monsterland_2" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "enable" : 2,
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
-        "enable" : 0,
-        "games" : [ null, "sweet_home", "snoring", "monsterland_1", "alarmy", "fruit_escape", "blobs", "cat", "sweet_home", "snoring", "cat", "alarmy", "dragon_princess", "monsterland_1", "blobs" ]
+        "enable" : 1,
+        "games" : [ null, "sweet_home", "snoring", "monsterland_1", "cat", "fruit_escape", "blobs", "cat", "snoring", "snoring", "cat", "alarmy", "dragon_princess", "monsterland_1", "blobs" ]
       },
       "frame_color" : "354FCCFF",
       "id" : "com.almagames.monsterlandfairytails",
@@ -343,8 +375,8 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "enable" : 2,
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 1,
@@ -361,7 +393,7 @@
     "android" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "games" : [ null, "snoring" ]
       },
       "cross_promo" : {
         "enable" : 0,
@@ -392,12 +424,12 @@
   "snoring" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "enable" : 2,
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "monsterland_2", "sweet_home", "cat", "blobs", "alarmy", "monsterland_1", "fruit_escape", "cat", "blobs", "alarmy", "sweet_home", "traffic_jam", "dragon_princess", "monsterland_1" ]
+        "games" : [ null, "monsterland_2", "alarmy", "cat", "blobs", "alarmy", "monsterland_1", "fruit_escape", "cat", "blobs", "alarmy", "sweet_home", "traffic_jam", "dragon_princess", "monsterland_1" ]
       },
       "frame_color" : "099C03FF",
       "id" : "com.almagames.snoring",
@@ -407,8 +439,8 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "enable" : 2,
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 1,
@@ -425,7 +457,7 @@
     "android" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "games" : [ null, "snoring" ]
       },
       "cross_promo" : {
         "enable" : 0,
@@ -456,12 +488,12 @@
   "sweet_home" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "snoring" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "snoring", "alarmy", "monsterland_1", "cat", "traffic_jam", "monsterland_2", "dragon_princess" ]
+        "games" : [ null, "snoring", "alarmy", "monsterland_1", "cat", "traffic_jam", "monsterland_2", "dragon_princess", "cat" ]
       },
       "frame_color" : "FF4040FF",
       "id" : "com.almagames.sweethome",
@@ -471,7 +503,7 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 2,
         "games" : [ null, "snoring" ]
       },
       "cross_promo" : {
@@ -489,7 +521,7 @@
     "android" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "sweet_home" ]
+        "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 0,
