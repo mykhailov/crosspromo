@@ -234,11 +234,11 @@
   "hexoboy" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 1,
+        "enable" : 0,
         "games" : [ null, "snoring" ]
       },
       "cross_promo" : {
-        "enable" : 1,
+        "enable" : 0,
         "games" : [ null, "snoring" ]
       },
       "frame_color" : "000000",
