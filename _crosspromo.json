@@ -249,12 +249,12 @@
     },
     "ios" : {
       "bootup_promo" : {
-        "enable" : 0,
-        "games" : [ null, "snoring" ]
+        "enable" : 1,
+        "games" : [ null, "cat", "monsterland_2" ]
       },
       "cross_promo" : {
-        "enable" : 0,
-        "games" : [ null, "snoring" ]
+        "enable" : 1,
+        "games" : [ null, "hexoboy", "snoring", "monsterland_1", "alarmy", "sweet_home", "blobs", "cat", "monsterland_2", "hexoboy", "snoring", "cat", "traffic_jam", "dragon_princess", "blobs" ]
       },
       "frame_color" : "000000",
       "id" : 12312312341,
