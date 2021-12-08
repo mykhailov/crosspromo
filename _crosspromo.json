@@ -234,12 +234,12 @@
   "hexoboy" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 0,
-        "games" : [ null, "snoring" ]
+        "enable" : 1,
+        "games" : [ null, "snoring", "cat", "blobs", "monsterland_1" ]
       },
       "cross_promo" : {
-        "enable" : 0,
-        "games" : [ null, "snoring", "monsterland_1", "alarmy", "sweet_home", "blobs", "cat", "monsterland_2", "hexoboy", "snoring", "cat", "traffic_jam", "dragon_princess", "blobs" ]
+        "enable" : 1,
+        "games" : [ null, "snoring", "monsterland_1", "alarmy", "cat", "blobs", "cat", "snoring", "blobs", "cat", "alarmy", "traffic_jam", "dragon_princess", "blobs" ]
       },
       "frame_color" : "000000",
       "id" : "com.almagames.hexoboy",
