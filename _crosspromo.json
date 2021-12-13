@@ -360,11 +360,11 @@
   "monsterland_2" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 2,
+        "enable" : 0,
         "games" : [ null, "cat" ]
       },
       "cross_promo" : {
-        "enable" : 1,
+        "enable" : 0,
         "games" : [ null, "sweet_home", "snoring", "monsterland_1", "cat", "fruit_escape", "blobs", "cat", "snoring", "snoring", "cat", "alarmy", "dragon_princess", "monsterland_1", "blobs" ]
       },
       "frame_color" : "354FCCFF",
