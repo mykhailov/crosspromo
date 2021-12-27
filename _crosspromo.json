@@ -239,7 +239,7 @@
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "snoring",  "unicorn","monsterland_1",  "unicorn","alarmy", "cat", "blobs",  "unicorn","cat", "snoring", "blobs", "unicorn", "cat", "alarmy",  "unicorn","traffic_jam", "dragon_princess", "blobs" ]
+        "games" : [ null, "unicorn", "unicorn", "unicorn", "unicorn", "unicorn"]
       },
       "frame_color" : "000000",
       "id" : "com.almagames.hexoboy",
