@@ -425,11 +425,11 @@
     "android" : {
       "bootup_promo" : {
         "enable" : 2,
-        "games" : [ null, "cat" ]
+        "games" : [ null, "unicorn" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "monsterland_2",  "unicorn","alarmy", "cat",  "unicorn","blobs", "alarmy", "unicorn", "monsterland_1", "fruit_escape",  "unicorn","cat", "blobs", "alarmy",  "unicorn","sweet_home", "traffic_jam", "unicorn", "dragon_princess", "monsterland_1" ]
+        "games" : [ null, "monsterland_2",  "unicorn","alarmy", "cat",  "unicorn","blobs", "alarmy", "unicorn", "monsterland_1", "fruit_escape",  "unicorn", "cat", "blobs", "alarmy",  "unicorn", "unicorn", "traffic_jam", "unicorn", "dragon_princess", "monsterland_1" ]
       },
       "frame_color" : "099C03FF",
       "id" : "com.almagames.snoring",
