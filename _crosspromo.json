@@ -250,7 +250,7 @@
     "ios" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "cat", "monsterland_2" ]
+        "games" : [ null, "unicorn", "snoring" ]
       },
       "cross_promo" : {
         "enable" : 1,
