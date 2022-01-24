@@ -235,11 +235,11 @@
     "android" : {
       "bootup_promo" : {
         "enable" : 1,
-        "games" : [ null, "unicorn" ]
+        "games" : [ null, "unicorn", "snoring" ]
       },
       "cross_promo" : {
         "enable" : 1,
-        "games" : [ null, "unicorn", "unicorn", "unicorn", "unicorn", "unicorn"]
+        "games" : [ null, "unicorn", "snoring", "unicorn", "cat", "monsterland_1"]
       },
       "frame_color" : "000000",
       "id" : "com.almagames.hexoboy",
