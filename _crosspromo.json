@@ -360,12 +360,12 @@
   "monsterland_2" : {
     "android" : {
       "bootup_promo" : {
-        "enable" : 0,
+        "enable" : 2,
         "games" : [ null, "cat" ]
       },
       "cross_promo" : {
         "enable" : 0,
-        "games" : [ null, "sweet_home", "snoring",  "unicorn","monsterland_1", "cat",  "unicorn","fruit_escape", "blobs",  "unicorn","cat", "snoring",  "unicorn","snoring", "cat", "alarmy",  "unicorn","dragon_princess", "monsterland_1",  "unicorn","blobs" ]
+        "games" : [ null, "unicorn", "snoring",  "hexoboy", "monsterland_1", "cat",  "snoring", "fruit_escape", "blobs",  "hexoboy", "cat", "snoring",  "unicorn","snoring", "cat", "alarmy",  "unicorn","dragon_princess", "monsterland_1",  "unicorn","blobs" ]
       },
       "frame_color" : "354FCCFF",
       "id" : "com.almagames.monsterlandfairytails",
